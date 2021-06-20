@@ -1,4 +1,5 @@
 # T
 
 A multipurpose private project
-srec=<https://github.com/gtagamermods/Djs-Moderation-Bot.git>
+(https://github.com/gtagamermods/Djs-Moderation-Bot.git))
+[s]] 
